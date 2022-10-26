@@ -1,3 +1,10 @@
+<b>UNIVERSIDAD NACIONAL DE LOJA</b>
+<h2>MAESTRÍA EN INGENIERÍA DE SOFTWARE</h2>
+<h3>DESARROLLO DE SOFTWARE BASADO EN MODELOS</h3>
+<h3>INTEGRANTES</h3>
+<h3>JANETH GUAMAN</h3>
+<h3>DANIEL LEÓN</h3>
+
 # TUTORIAL MODELOS EN ECLIPSE IDE (ECLIPSE MODELING FRAMEWORK).
 
 Pasos para trabajar los modelos en Eclipse IDE: 
@@ -56,5 +63,9 @@ Pasos para trabajar los modelos en Eclipse IDE:
     
     12. Una vez realizada la opción, ECLIPSE desea reiniciar el IDE, para proceder a actualizar lo instalado y 
         presionamos el botón RESTART NOW
+
+        ![](https://github.com/Dlo85/imagenesTutorial/blob/main/11.png)
+
+    13. Una vez reind}cidado el IDE ECLIPSE, dentro del editor, en el menú, seleccionamos la opción FILE
 
         ![](https://github.com/Dlo85/imagenesTutorial/blob/main/11.png)
