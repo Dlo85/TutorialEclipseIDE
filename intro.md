@@ -48,3 +48,13 @@ Pasos para trabajar los modelos en Eclipse IDE:
         que se instalan en el IDE ECLIPSE (49%).
 
         ![](https://github.com/Dlo85/imagenesTutorial/blob/main/9.png)
+    
+    11. Luego, aparece una ventana llamada TRUST, donde seleccionamos la opción UNSIGNED, una ve que hemos hecho 
+        la selección de la opción presionamos el botón TRUST SELECTED.
+
+        ![](https://github.com/Dlo85/imagenesTutorial/blob/main/10.png)
+    
+    12. Una vez realizada la opción, ECLIPSE desea reiniciar el IDE, para proceder a actualizar lo instalado y 
+        presionamos el botón RESTART NOW
+
+        ![](https://github.com/Dlo85/imagenesTutorial/blob/main/11.png)
