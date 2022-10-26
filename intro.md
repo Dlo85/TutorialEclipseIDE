@@ -1,9 +1,6 @@
 <h2>UNIVERSIDAD NACIONAL DE LOJA</h2>
 <h3>MAESTRÍA EN INGENIERÍA DE SOFTWARE</h3>
 <h3>DESARROLLO DE SOFTWARE BASADO EN MODELOS</h3>
-<b>INTEGRANTES</b>
-<b>JANETH GUAMAN</b>
-<b>DANIEL LEÓN</b>
 
 # TUTORIAL MODELOS EN ECLIPSE IDE (ECLIPSE MODELING FRAMEWORK).
 
@@ -69,3 +66,9 @@ Pasos para trabajar los modelos en Eclipse IDE:
     13. Una vez reind}cidado el IDE ECLIPSE, dentro del editor, en el menú, seleccionamos la opción FILE
 
         ![](https://github.com/Dlo85/imagenesTutorial/blob/main/11.png)
+
+
+
+<h4>INTEGRANTES;</h4>
+<h4>JANETH GUAMAN</h4>
+<h4>DANIEL LEÓN</h4>
