@@ -4,9 +4,9 @@ Pasos para trabajar los modelos en Eclipse IDE:
 
     1. Para poder trabajar los modelos, mediante el IDE Eclipse, primero, procedemos a descargar de la pagina oficial.
 
-        ![*Eclipse*](https://github.com/Dlo85/imagenesTutorial/blob/main/eclipse.png) {width='589px'}
+        ![*Eclipse*](https://github.com/Dlo85/imagenesTutorial/blob/main/eclipse.png){width=589px heigh=314}
 
-    2. 
+    2. Una vez, descargado, e instalado Eclipse, Procedemos a abrir el IDE:
 
 
 It shows off a few of the major file types, as well as some sample content.
