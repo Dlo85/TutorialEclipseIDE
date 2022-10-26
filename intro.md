@@ -67,6 +67,14 @@ Pasos para trabajar los modelos en Eclipse IDE:
 
         ![](https://github.com/Dlo85/imagenesTutorial/blob/main/11.png)
 
+    13.
+
+    14.
+
+    15.
+
+    16.
+
 
 
 <h4>INTEGRANTES;</h4>
