@@ -2,7 +2,9 @@
 
 Pasos para trabajar los modelos en Eclipse IDE: 
 
-![ECLIPSE IDE](https://github.com/Dlo85/imagenesTutorial/blob/main/eclipse.png){width=width height=height}
+1. Para poder trabajar los modelos, mediante el IDE Eclipse, primero, procedemos a descargar de la pagina oficial.
+
+![ECLIPSE IDE](https://github.com/Dlo85/imagenesTutorial/blob/main/eclipse.png){width=589 height=314}
 
 It shows off a few of the major file types, as well as some sample content.
 It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
