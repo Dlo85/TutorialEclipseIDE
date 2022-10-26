@@ -38,12 +38,13 @@ Pasos para trabajar los modelos en Eclipse IDE:
        seleccionadas  
        
        ![](https://github.com/Dlo85/imagenesTutorial/blob/main/7.png)
+    
+    9. Una vez cargadas las opciones, aparece una ventana donde nos indica que si aceptamos o no los acuerdos
+       de la licencia, aceptamos la misma, seleccionando la opción y aceptamos los términos del acuerdo.
 
+       ![](https://github.com/Dlo85/imagenesTutorial/blob/main/8.png)
 
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+    10. Aparece una interfaz, donde en la parte inferior derecha, aparece el porcentaje de carga de las opciones
+        que se instalan en el IDE ECLIPSE (49%).
 
-Check out the content pages bundled with this sample book to see more.
-
-```{tableofcontents}
-```
+        ![](https://github.com/Dlo85/imagenesTutorial/blob/main/9.png)
