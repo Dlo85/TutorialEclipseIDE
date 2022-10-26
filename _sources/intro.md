@@ -72,10 +72,11 @@ Pasos para trabajar los modelos en Eclipse IDE:
 
         ![](https://github.com/Dlo85/imagenesTutorial/blob/main/14.png)
 
-    15.
+    16.Una vez, realizado esta acción, procedemos a realizar nuestro trabajo de modelado en el ide Eclipse.
 
-   
+        ![](https://github.com/Dlo85/imagenesTutorial/blob/main/15.png)
 
-<h4>INTEGRANTES;</h4>
-<h4>JANETH GUAMAN</h4>
-<h4>DANIEL LEÓN</h4>
+
+<h5>INTEGRANTES;</h5>
+<h5>JANETH GUAMAN</h5>
+<h5>DANIEL LEÓN</h5>
